@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=574efc&center=true&vCenter=true&width=505&height=44&lines=Computer%20Science%20Student;Aspiring%20Java%20Backend%20Developer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 3rd-year CS Student (Data Science & AI) at UWM Olsztyn  
 - Former AI Society "Czarna Magia" member
 
-### 🌱 Currently...
+## 🌱 Currently...
 
 - I'm currently learning **Java Backend Development**
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,19 +32,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nikodem-kaczmarczyk-526241355/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=xMurphy533&show_icons=true&theme=dark&title_color=574efc&icon_color=574efc&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
-### 💭 Dev Quote
+## 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff&authorColor=574efc&iconColor=574efc" alt="Dev quote" />
