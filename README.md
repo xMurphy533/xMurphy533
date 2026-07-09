@@ -48,5 +48,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/xMurphy533">xMurphy533</a></i></p>
+
