@@ -47,5 +47,5 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff&authorColor=ffffff" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff&authorColor=574efc&iconColor=574efc" alt="Dev quote" />
 </p>
