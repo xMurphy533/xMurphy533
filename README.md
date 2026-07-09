@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=xMurphy533&show_icons=true&theme=dark&title_color=ED8B00&icon_color=ED8B00&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=xMurphy533&show_icons=true&theme=dark&title_color=574efc&icon_color=574efc&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ### 💭 Dev Quote
