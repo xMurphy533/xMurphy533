@@ -13,7 +13,9 @@
 - 3rd-year CS Student (Data Science & AI) at UWM Olsztyn  
 - Former AI Society "Czarna Magia" member
 
-🌱 &nbsp;I'm currently learning **Java Backend Development**
+### 🌱 Currently...
+
+- I'm currently learning **Java Backend Development**
 
 ### 🛠️ Tech Stack
 
