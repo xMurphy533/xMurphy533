@@ -22,7 +22,7 @@
 
 ## 🌱 Currently...
 
-- I'm currently learning **Java Backend Development**
+- I'm learning **Java Backend Development**
 
 ## 🛠️ Tech Stack
 
