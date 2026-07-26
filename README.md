@@ -1,6 +1,13 @@
 <p align="center">
   <a href="https://github.com/xMurphy533">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Nikodem" alt="Hello! I'm Nikodem" />
+    <picture>
+      <!-- Obraz dla trybu ciemnego (biały tekst) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Nikodem">
+      <!-- Obraz dla trybu jasnego (czarny tekst) -->
+      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Nikodem">
+      <!-- Obraz domyślny, gdyby coś nie zadziałało -->
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Nikodem" alt="Hello! I'm Nikodem" />
+    </picture>
   </a>
 </p>
 
